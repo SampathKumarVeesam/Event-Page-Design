@@ -27,4 +27,4 @@ Grid System: Implement the grid system to make the layout responsive.
 Cards: Use Bootstrap cards to display the event schedule.
 Form: Style the registration form using Bootstrap's form classes.
 
-Demo link:
+Demo link: https://sampathkumarveesam.github.io/Event-Page-Design/
